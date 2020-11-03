@@ -3,9 +3,9 @@
 ## Resources
 1 - [Intro to Python Workshop](https://hackmd.io/@cqvu/ByTYvZNOD)
 
-2 -
+2 - [Echo Bot Workshop](https://hackmd.io/@cqvu/messengerechobot) | [Code](https://glitch.com/edit/#!/chau-messenger-bot?path=server.py)
 
-3 -
+3 - 
 
 4 -
 
