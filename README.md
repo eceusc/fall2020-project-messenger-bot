@@ -5,7 +5,7 @@
 
 2 - [Echo Bot Workshop](https://hackmd.io/@cqvu/messengerechobot) | [Code](https://glitch.com/edit/#!/chau-messenger-bot?path=server.py)
 
-3 - 
+3 - [Exploring the Messenger API](https://hackmd.io/@cqvu/messengerapiexplore)
 
 4 -
 
